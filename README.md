@@ -1,5 +1,5 @@
 # HTTP_Server_Project
-
+Http protocol is used between a client and a server. What a client sends is what a server receives, and vice-versa. Http was designed for the server to simply sit and wait for requests (possibly including data), and then respond (possibly including data).
 Implement part of the HTTP protocol.
   1)Threaded (multiple clients)
   2)GET And Head Methods.
